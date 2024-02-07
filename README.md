@@ -1,1 +1,1 @@
-# dl_assignments
+We have obtained a dataset from our M1 module, which was a housing dataset from Boston. We tried to predict median value of houses based on different input features. We initialised simple neural network model with 5 different combinations of hyperparameters and tested them on the test sets for loss values.
