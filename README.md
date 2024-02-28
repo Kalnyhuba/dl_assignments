@@ -7,3 +7,6 @@ For the first part of the assignment we have implemented a semantic search engin
 For the second part of the assignment, we have implemented gradient descent in one notebook, on a dataset from sci-kit learn library, which is a california housing dataset. We demonstrated loss and calculating gradient and updating weights in the code.
 
 In another notebook we demonstrated attention mechanism. We looked at two similarly constructed sentences with different meanings and visualised the attention matrix on both sentences to show the difference in meaning between the same words in different sentences.
+
+ASSIGNMENT 3:
+For the third assignment, we created a question-answering application, similar to the lecture one we had. In order for it to work user has to upload the deeplearning.pdf document to their Google Drive and run it after.
